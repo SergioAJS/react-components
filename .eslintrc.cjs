@@ -26,7 +26,7 @@ module.exports = {
     'import/no-default-export': 0,
     'import/prefer-default-export': 0,
     'import/no-absolute-path': 0,
-    // 'import/extensions': 0,
+    'import/extensions': 0,
   },
   ignorePatterns: ['vite.config.ts'],
 };
