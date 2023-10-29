@@ -1,0 +1,23 @@
+.reswrap {
+  width: 50%;
+  height: 3.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem 0 1rem;
+  border-radius: 0.8rem;
+  background: rgb(177, 16, 221);
+  box-sizing: border-box;
+}
+
+.itemContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.status {
+  font-size: 30px;
+}

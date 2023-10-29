@@ -27,6 +27,7 @@ module.exports = {
     'import/prefer-default-export': 0,
     'import/no-absolute-path': 0,
     'import/extensions': 0,
+    'react/destructuring-assignment': 0,
   },
   ignorePatterns: ['vite.config.ts'],
 };
